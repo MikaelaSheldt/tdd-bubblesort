@@ -12,4 +12,4 @@ https://jasmine.github.io/pages/docs_home.html
 ### bubblesort.js
 - algorithm
 ### bubblesort.spec.js
-- test specs (denoted by .spec)
+- test specs for bubblesort.js (denoted by .spec)
